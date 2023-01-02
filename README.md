@@ -5,7 +5,7 @@ I'm trying to improve everytime about testing.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ercanaltun&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ercanaltun&show_icons=true&theme=radical)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 	
+[![Github Badge](https://img.shields.io/badge/-Github-000? 	
 	
 	
 	
