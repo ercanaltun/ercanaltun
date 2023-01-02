@@ -6,5 +6,5 @@ I'm trying to improve everytime about testing.
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ercanaltun&show_icons=true&theme=gradient) 
 	![Github stats 2](https://github-readme-stats.vercel.app/api?username=ercanaltun&show_icons=true&theme=radical)
 	
-	[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+	[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
