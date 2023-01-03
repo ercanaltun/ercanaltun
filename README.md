@@ -2,7 +2,7 @@
    
 	
 # 💫 About Me:
-I’m Ercan.I'm a Software Test Engineer for abouth a year.Attented a bootcamp where I learned using tools about how to test manual and automation tests. I enjoy learning Language and Frameworks like Java,Selenium Webdriver,JUnit,TestNG and Cucumber BDD as well as research in Software Test Engineering World
+I’m Ercan.I'm a Software Test Engineer for abouth a year.I attented a bootcamp where I learned using tools about how to test manual and automation tests. I enjoy learning Language and Frameworks like Java,Selenium Webdriver,JUnit,TestNG and Cucumber BDD as well as research in Software Test Engineering World
 
 
 ## 🌐 Socials:
