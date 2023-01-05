@@ -18,10 +18,6 @@ I’m Ercan and I'm from Turkey.I'm a Software Test Engineer for abouth a year.I
 ---
 [![](https://visitcount.itsvg.in/api?id=ercanaltun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ercanaltun&label=Profile%20Views&color=3&icon=3&pretty=false" />
-</a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->	
 
 
