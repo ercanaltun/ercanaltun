@@ -2,7 +2,7 @@
    
 	
 # 💫 About Me:
-I’m Ercan and I'm from Turkey.I'm a Software Test Engineer for abouth two years.I attented a bootcamp where I learned using tools about how to test UI and Back-end tests manual and automation. I enjoy learning Language and Frameworks like Java,Selenium Webdriver,JUnit,TestNG and Cucumber BDD as well as research in Software Test Engineering World
+I’m Ercan and I'm from Turkey.I'm a Software Test Engineer for abouth two years.I attented a bootcamp where I learned using tools about how to test UI and Back-end tests manual and automation. I enjoy learning Language and Frameworks like Java,Selenium Webdriver,JUnit,TestNG and Cucumber BDD as well as research in Software Test Engineering world..
 
 
 ## 🌐 Socials:
