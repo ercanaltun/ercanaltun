@@ -16,7 +16,7 @@
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/110672975/236626794-2e4c6a28-cfd5-4ebc-be87-6caeee1938fb.gif)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/ercanaltun/svg/avgupta456/langs)](https://ercanaltun.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercanaltun=true&theme=transparent)
 
 
 
