@@ -17,8 +17,6 @@
 
 
 
-![994684860-aea5fe2fcc28e6a521d88d25d94f889d15af179a0f0b9b3dd31f360f53757e03-d_640x360](https://user-images.githubusercontent.com/110672975/236626983-41d9f4d5-ced8-44a7-86f5-da1e6ae32848.jpg)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->	
 
