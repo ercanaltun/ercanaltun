@@ -1,6 +1,6 @@
 ### Hi there👋 
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/110672975/236626794-2e4c6a28-cfd5-4ebc-be87-6caeee1938fb.gif)
    
-	
 # 💫 About Me:
 ☘️I’m Ercan and I'm from Turkey.💻I'm a Software Development Engineer in Test (SDET)🔭 for abouth two years. I learned using tools about how to test UI and Back-end tests manual and automation. I enjoy learning✍️Language and Frameworks like Java, Selenium Webdriver, JUnit, TestNG and Cucumber BDD. In terms of soft skills,🔥I consider myself to be quick to pick things up, adaptable to new conditions, and a positive thinker.⚡I'm an excellent team member and I can adaptable to company culture as soon as .Also I have strong 💪 collaborate. Now I try to learn 🌱 Appium and Apache JMeter for mobile testing and performance testing as well as researching 🤔 in Software Test Engineering world...
 
@@ -18,8 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ercanaltun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/110672975/236626794-2e4c6a28-cfd5-4ebc-be87-6caeee1938fb.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->	
 
